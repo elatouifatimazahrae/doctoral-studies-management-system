@@ -17,14 +17,26 @@ La plateforme permet aux administrateurs de gérer les données et aux directeur
 ### Centres Doctoraux
 ![Centres Doctoraux](screenshots/Centres%20Doctoraux.png)
 
+### Détails d'un Centre
+![Centre](screenshots/centre.png)
+
 ### Formations Doctorales
 ![Formations Doctorales](screenshots/Formations%20Doctorales.png)
+
+### Détails d'une Formation
+![Formation](screenshots/formation.png)
 
 ### Conventions
 ![Conventions](screenshots/Conventions.png)
 
+### Détails d'une Convention
+![Détails de la Convention](screenshots/D%C3%A9tails%20de%20la%20Convention.png)
+
 ### Gestion des Utilisateurs
 ![Gestion des Utilisateurs](screenshots/Gestion%20des%20Utilisateurs.png)
+
+### Informations de l'utilisateur
+![Informations de l'utilisateur](screenshots/Informations%20de%20l%27utilisateur.png)
 
 ## Objectifs du projet
 
